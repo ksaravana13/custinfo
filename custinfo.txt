@@ -1,0 +1,1 @@
+customerid:10000,location:chennai
