@@ -1,1 +1,2 @@
 customerid:10000,location:chennai
+customerid:10001,location:bangalore
