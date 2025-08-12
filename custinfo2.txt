@@ -1,4 +1,7 @@
 customerid:10004,location:pune
 customerid:10005,location:delhi
+customerid:10006,location:madhyapradesh
+customerid:10007,location:andhrapradesh
 customerid:10008,location:noida
 customerid:10009,location:gujarat
+
