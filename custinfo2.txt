@@ -1,0 +1,2 @@
+customerid:10004,location:pune
+customerid:10005,location:delhi
